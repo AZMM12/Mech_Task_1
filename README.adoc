@@ -15,6 +15,7 @@ Sketching 3D Robot Legs and calculating maximum angle of rotation and maximum di
 
 == Task 2 : Determining the maximum angle :
 1.Work on one Leg and hide the rest , then select the parts and press "Make Editable".
+
 2.Make them one object by selecting the parts then right click then click "Connect Objects + Delete" and move at the top.
 3.Sketch  Joints by Joint tool from Character bar .
 4.Select the joints and the object connected then click "Bind" from Character tab > Commands .
