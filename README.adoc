@@ -1,0 +1,45 @@
+= Project: {Mech_Task_1}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 31/07/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
+== Description of project:
+Sketching 3D Robot Legs and calculating maximum angle of rotation and maximum distance to crawl walk.
+
+== Task 1 : Sketch 3D Robot Legs
+1. Download C4D from Library files from "s-m.com.sa" .
+2. Start Sketching and be aware of the Heigh of the sketch to not exceed 64 cm , Look at "Mech_1_pic1.png" and "Mech_1_pic2.png" .
+
+For Task 2 : Determining the maximum angle :
+1.Work on one Leg and hide the rest , then select the parts and press "Make Editable".
+2.Make them one object by selecting the parts then right click then click "Connect Objects + Delete" and move at the top.
+3.Sketch  Joints by Joint tool from Character bar .
+4.Select the joints and the object connected then click "Bind" from Character tab > Commands .
+5.Now Choose the Toe joint and Hip joint and link them with IK Chain.
+6.Now Move the Goal untill Deformation happen or it becomes not on surface , and remmember the distance moved , in my case it moved 20 cm
+tan(theta) = (20cm / 64cm) , solve for theta
+theta = 17.354 degrees. look at "Mech_1_Angle1.png" and "Mech_1_Angle2.png"
+
+=== Folder structure
+
+....
+ Mech_Task_1
+  └── README.adoc      => this file
+  └── Mech_1_Angle1.png      => first picture of task 2
+  └── Mech_1_Angle2.png      => second picture of task 2
+  └── Mech_1_pic1.png      => first picture of task 1
+  └── Mech_1_pic2.png      => second picture of task 1
+  └── task_1_robot_legs.C4D      => Cinema 4D File
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
+
