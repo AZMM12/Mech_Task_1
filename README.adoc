@@ -13,7 +13,7 @@ Sketching 3D Robot Legs and calculating maximum angle of rotation and maximum di
 1. Download C4D from Library files from "s-m.com.sa" .
 2. Start Sketching and be aware of the Heigh of the sketch to not exceed 64 cm , Look at "Mech_1_pic1.png" and "Mech_1_pic2.png" .
 
-For Task 2 : Determining the maximum angle :
+== Task 2 : Determining the maximum angle :
 1.Work on one Leg and hide the rest , then select the parts and press "Make Editable".
 2.Make them one object by selecting the parts then right click then click "Connect Objects + Delete" and move at the top.
 3.Sketch  Joints by Joint tool from Character bar .
