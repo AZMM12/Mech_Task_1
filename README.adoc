@@ -32,7 +32,7 @@ theta = 17.354 degrees. look at "Mech_1_Angle1.png" and "Mech_1_Angle2.png"
   └── Mech_1_Angle2.png      => second picture of task 2
   └── Mech_1_pic1.png      => first picture of task 1
   └── Mech_1_pic2.png      => second picture of task 1
-  └── task_1_robot_legs.C4D      => Cinema 4D File
+  └── Task_1_Robot_Legs.c4d      => Cinema 4D File
 ....
 
 === Contributing
