@@ -1,4 +1,4 @@
-= Project: {Mech_Task_1}
+= Project: {Robot-Legs-Designing}
 
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
@@ -41,12 +41,3 @@ theta = 17.354 degrees. look at "Mech_1_Angle1.png" and "Mech_1_Angle2.png"
   └── Mech_1_pic2.png      => second picture of task 1
   └── Task_1_Robot_Legs.c4d      => Cinema 4D File
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
-
